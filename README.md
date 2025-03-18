@@ -45,5 +45,3 @@ Este proyecto consiste en un monitor de movimiento que utiliza sensores de movim
 ## Autor
 - **Nombre del Autor**: [Adrián Brihuega Sánchez]
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
