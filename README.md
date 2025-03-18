@@ -3,6 +3,13 @@
 ## Descripción
 Este proyecto consiste en un monitor de movimiento que utiliza sensores de movimiento y un LED NeoPixel para indicar el estado de detección de movimiento. Además, el dispositivo se conecta a una red Wi-Fi y proporciona una interfaz web para monitorear el estado de los sensores en tiempo real.
 
+## 🛠️ Tecnologías
+
+[![Arduino](https://img.shields.io/badge/Arduino-1.8.13-blue?style=flat&logo=arduino)](https://www.arduino.cc/)
+[![Wi-Fi](https://img.shields.io/badge/Wi--Fi-802.11-blue?style=flat&logo=wi-fi)](https://www.wi-fi.org/)
+[![Adafruit NeoPixel](https://img.shields.io/badge/Adafruit%20NeoPixel-1.10.4-blue?style=flat&logo=adafruit)](https://www.adafruit.com/category/168)
+[![Motion Sensors](https://img.shields.io/badge/Motion%20Sensors-1.0.0-blue?style=flat&logo=sensor)](https://www.example.com/motion-sensors)
+
 ## Tecnologías Utilizadas
 - **Arduino**: Plataforma de hardware libre basada en una placa con un microcontrolador y un entorno de desarrollo.
 - **Wi-Fi**: Utilizado para conectar el dispositivo a una red inalámbrica y permitir la comunicación a través de un servidor web.
